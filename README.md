@@ -28,7 +28,7 @@ Passionné par l'informatique technique, je me spécialise dans la gestion d'inf
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Note technique basée sur ton CV :
+### Note technique :
 * Systèmes : Administration Debian, Ubuntu et Windows Server (AD DS, GPO).
 * Virtualisation : Utilisation de Proxmox et Docker.
 * Sécurité : Expertise sur OPNsense et Kali Linux.
