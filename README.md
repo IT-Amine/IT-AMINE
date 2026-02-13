@@ -34,8 +34,3 @@ Passionné par l'informatique technique, je me spécialise dans la gestion d'inf
 <a href="https://www.linkedin.com/in/kada-amine"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kadaamine37@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
 </p>
-
----
-
-### ⚡ Quelques chiffres
-![Stats GitHub de Amine](https://github-readme-stats.vercel.app/api?username=KADA-Amine&show_icons=true&theme=transparent&hide_border=true)
