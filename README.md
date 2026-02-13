@@ -11,7 +11,6 @@ Passionné par l'informatique technique, je me spécialise dans la gestion d'inf
 - 🎓 **Formation :** BTS SIO option SISR au Lycée Paul-Louis Courier.
 - 🛠️ **Expérience :** Passage chez Polysoft (Gestion de sauvegardes, optimisation réseau et SAV).
 - 🛡️ **Certifications :** ANSSI (Cybersécurité) & Club EBIOS.
-- 🌍 **Portfolio :** [amine-it.vercel.app](https://amine-it.vercel.app/)
 
 ---
 
