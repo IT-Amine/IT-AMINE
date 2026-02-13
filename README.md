@@ -14,16 +14,24 @@ Passionné par l'informatique technique, je me spécialise dans la gestion d'inf
 
 ---
 
-### 🛠️ Compétences Techniques
+### 🛠️ Ma Stack Technique
 
-**Systèmes & Virtualisation**
-- 🐧 **Linux :** Administration avancée Debian & Ubuntu (SSH, gestion de paquets).
-- 🪟 **Windows Server :** Active Directory (AD DS), DNS, DHCP, GPO.
-- 🧊 **Virtualisation :** Proxmox, VirtualBox, Docker (Conteneurisation).
+<p align="left">
+<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+<img src="https://img.shields.io/badge/OPNsense-FF6600?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**Réseaux & Sécurité**
-- 🛡️ **Sécurité :** OPNsense, AdGuard Home, Kali Linux (Audit & Intrusion).
-- 🔌 **Infrastructure :** Segmentation VLANs, adressage IP, ACL.
+### Note technique basée sur ton CV :
+* Systèmes : Administration Debian, Ubuntu et Windows Server (AD DS, GPO).
+* Virtualisation : Utilisation de Proxmox et Docker.
+* Sécurité : Expertise sur OPNsense et Kali Linux.
 
 ---
 
