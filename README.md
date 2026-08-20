@@ -31,7 +31,7 @@ Passionné par l'informatique technique, je me spécialise dans la gestion d'inf
 ### Note technique :
 * Systèmes : Administration Debian, Ubuntu et Windows Server (AD DS, GPO).
 * Virtualisation : Utilisation de Proxmox et Docker.
-* Sécurité : Expertise sur OPNsense et Kali Linux.
+* Sécurité : OPNsense / Fortinet et Kali Linux.
 
 ---
 
