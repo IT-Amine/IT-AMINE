@@ -22,6 +22,8 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 
 - 🔧 Je construis mon lab personnel : virtualisation **Proxmox**, segmentation réseau et pare-feu **OPNsense**.
 - 🌱 J'approfondis la cybersécurité offensive et le durcissement des systèmes avec **Kali Linux**.
+- 🤝 Ouvert aux échanges et collaborations sur des projets réseaux, sécurité ou infrastructure.
+- 📫 Pour me contacter : **kadaamine37@hotmail.com**
 
 ---
 
@@ -41,6 +43,7 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 
 <p align="left">
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Stormshield-0B2545?style=for-the-badge&logoColor=white" alt="Stormshield" />
 <img src="https://img.shields.io/badge/OPNsense-FF6600?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
 </p>
