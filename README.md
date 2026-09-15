@@ -60,8 +60,8 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 ### 📊 Statistiques GitHub
 
 <p align="center">  
-  <img height="165" src="https://github-readme-stats-it-amines-projects.vercel.app/api?username=IT-Amine&t=1&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />  
-  <img height="165" src="https://github-readme-stats-it-amines-projects.vercel.app/api/top-langs/?username=IT-Amine&t=1&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />  
+  <img height="165" src="https://github-readme-stats-it-amines-projects.vercel.app/api?username=IT-Amine&show_icons=true&theme=tokyonight&hide_border=true&v=999" alt="Stats GitHub" />  
+  <img height="165" src="https://github-readme-stats-it-amines-projects.vercel.app/api/top-langs?username=IT-Amine&layout=compact&theme=tokyonight&hide_border=true&v=999" alt="Langages les plus utilisés" />  
 </p>
 
 ---
