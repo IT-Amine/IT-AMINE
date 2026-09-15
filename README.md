@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9E97&center=false&vCenter=true&width=600&lines=%C3%89tudiant+en+2%C3%A8me+ann%C3%A9e+de+BTS+SIO+SISR;Futur+Administrateur+R%C3%A9seau+%26+S%C3%A9curit%C3%A9;Passionn%C3%A9+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" />
 </p>
 
-📍 Tours, France 🇫🇷 · 🎯 En recherche d'un stage de fin de formation
+📍 Tours, France 🇫🇷 · 🎯 En recherche d'un stage de 7 semaines (4 Janvier au 19 Février 2027)
 
 ---
 
