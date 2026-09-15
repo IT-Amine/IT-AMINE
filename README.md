@@ -55,14 +55,6 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">  
-  <img height="165" src="https://github-readme-stats-it-amines-projects.vercel.app/api?username=IT-Amine&show_icons=true&theme=tokyonight&hide_border=true&v=999" alt="Stats GitHub" />  
-  <img height="165" src="https://github-readme-stats-it-amines-projects.vercel.app/api/top-langs?username=IT-Amine&layout=compact&theme=tokyonight&hide_border=true&v=999" alt="Langages les plus utilisés" />  
-</p>
 
 ---
 
