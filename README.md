@@ -59,9 +59,9 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 
 ### 📊 Statistiques GitHub
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kada-amine&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kada-amine&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+<p align="center">  
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IT-Amine&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Amine&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />  
 </p>
 
 ---
