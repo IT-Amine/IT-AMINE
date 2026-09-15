@@ -22,8 +22,6 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 
 - 🔧 Je construis mon lab personnel : virtualisation **Proxmox**, segmentation réseau et pare-feu **OPNsense**.
 - 🌱 J'approfondis la cybersécurité offensive et le durcissement des systèmes avec **Kali Linux**.
-- 🤝 Ouvert aux échanges et collaborations sur des projets réseaux, sécurité ou infrastructure.
-- 📫 Pour me contacter : **kadaamine37@hotmail.com**
 
 ---
 
