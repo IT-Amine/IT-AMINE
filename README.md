@@ -57,7 +57,7 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IT-Amine&theme=radical&border_radius=5&locale=fr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IT-Amine&theme=elegant&border_radius=6&locale=fr&card_width=490&card_height=200)](https://git.io/streak-stats)
 
 ---
 
