@@ -55,6 +55,9 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IT-Amine&theme=radical&border_radius=5&locale=fr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
