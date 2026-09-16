@@ -69,4 +69,3 @@ Passionné par l'administration systèmes et la cybersécurité, j'aime comprend
 <a href="mailto:kadaamine37@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
 </p>
 
-⭐️ Retrouve le détail de mes projets sur mon [portfolio](https://amine-it.vercel.app/).
